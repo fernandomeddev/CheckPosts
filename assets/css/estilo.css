@@ -1,0 +1,84 @@
+/* CONFIG GLOBAL >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+html, body{
+    height: 100%;
+    font-family: 'Mulish', sans-serif;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: #626366;
+}
+
+
+h4 {
+    font-family: 'Mulish', sans-serif;
+    font-size: 15px bold;
+}
+
+.card {
+    border-color: #e2e2e2;
+}
+
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>BARRA DE NEVEGAÇÃO*/
+
+nav.navbar-ajustes{
+    font-size: 14px;
+    padding: 15px 3em 0 4em;
+    margin-top: 10px;
+    margin-bottom: -3px;
+    font-family: 'Mulish', sans-serif;
+
+}
+
+nav img{
+    width: 340px; 
+}
+
+nav a i{
+    font-size: 22px;
+    color: #626366;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    color: #626366;
+
+}
+
+.navbar-expand-md .navbar-nav .nav-link:hover {
+    color: #1e73be;
+
+
+}
+
+.navbar-toggler {
+    color: #1e73be;
+    border-color: #626366;
+    opacity: 0.5;
+}
+
+.divisor {
+    width: 1px;
+    background: #626366;
+    margin: 10px 5px;
+
+}
+
+
+#form-section{
+    height: 500px;
+    margin-bottom: 200px;
+}
+
+.btn-outline-info{
+    color: #00aae2;
+    border-color: #00aae2;
+    font-size: 13px bold;
+    border-radius: 0%;
+}
+
+.btn-outline-info:hover{
+    color: #fff;
+    border-color: #00aae2;
+    background-color: #00aae2;
+}
+
+
