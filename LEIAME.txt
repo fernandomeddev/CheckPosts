@@ -1,0 +1,18 @@
+
+>>>>>>>>>>LEIA_ME<<<<<<<<<<<
+
+
+	1-Baixe e instale o xampp e certifeque-se se instalar o servidor apache.(Em caso de Duvidas comunique o suporte).
+
+	2-Copie a pasta do projeto "ex: teste_fernando" para o diretório "xampp/htdocs/" que é o diretório público do apache.
+
+	3-Execute o servidor apache no painel de controle do Xampp e certifique-se que ele esteja ativo.
+
+	4-no Browser do navegador didige "localhost/nomedodiretorio" (caso necessário informe a porta) Ex:localhost:4433/nomediretorio.
+	
+	5-Clique em Posts para verificar os posts do User ID 1, e em seguida clique em algum dos títulos dos posts(a sua escolha) para visualizar seu conteúdo.
+
+	OBS: as vezes limpar o cache resolve alguns bugs XD!
+
+
+	dúvidas fernandodesenvti@gmail.com.
